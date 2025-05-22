@@ -24,9 +24,9 @@ The research employed a data-driven approach using:
 
 ## System/Process Flow
 
-The `Structure_Flow.png` image illustrates the overall process of this research, from data acquisition and analysis to model design, performance evaluation, and prediction.
+The `Structure_Flow.jpg` image illustrates the overall process of this research, from data acquisition and analysis to model design, performance evaluation, and prediction.
 
-![Flow Diagram](Structure_Flow.png)
+![Flow Diagram](Structure_Flow.jpg)
 
 ## Key Findings
 
