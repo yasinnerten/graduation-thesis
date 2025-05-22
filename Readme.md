@@ -1,4 +1,4 @@
-# Istanbul Technical University Graduation Thesis: Metro Istanbul Usage Prediction Using with Digital Twin Approach 
+# Metro Istanbul Usage Prediction Using with Digital Twin Approach 
 
 This repository contains my graduation thesis, a research paper focused on **predicting Metro Istanbul usage with smart card data**. This work leverages machine learning models developed and executed on Kaggle Servers.
 
